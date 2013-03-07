@@ -4,7 +4,7 @@ Simple Text Parser
 
 Description:
 ============
-This is a simple C program parses a select number of words from a text file. The program takes the file names "infile.txt", "outfile.txt", and two integers A and B as arguments, and parses whole words, starting at the Ath number of words in the passage and ending at B number of words in the passage.
+This simple C program parses a select number of words from a text file. The program takes the file names "infile.txt", "outfile.txt", and two integers A and B as arguments, and parses whole words, starting at the Ath number of words in the passage and ending at B number of words in the passage.
 
 
 Output:     
